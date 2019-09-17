@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="msg">Enter Username and Password to Login :</string>
+    <string name="logo">Logo</string>
+</resources>
